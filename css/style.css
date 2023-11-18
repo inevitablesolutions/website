@@ -124,6 +124,10 @@ h6,
     color: #FFFFFF;
 }
 
+.navbar-light .navbar-brand h2 {
+    color: #FFFFFF;
+}
+
 .navbar-light .navbar-brand img {
     max-height: 60px;
     transition: .5s;
@@ -152,6 +156,10 @@ h6,
     }
 
     .navbar-light .navbar-brand h1 {
+        color: var(--primary);
+    }
+
+    .navbar-light .navbar-brand h2 {
         color: var(--primary);
     }
 
